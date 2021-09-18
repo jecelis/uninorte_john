@@ -1,1 +1,3 @@
-Nombre: John Lopez
+Nombre: John 
+Apellidos: Lopez
+Email: jecelis@uninorte.edu.co
